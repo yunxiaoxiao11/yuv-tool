@@ -1,6 +1,6 @@
 package com.example.yuv.tool;
 
-import com.example.yuv.tool.functional.VUtils;
+import com.example.yuv.tool.utils.VUtils;
 import com.example.yuv.tool.model.TaskStatus;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

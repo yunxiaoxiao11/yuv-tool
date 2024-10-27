@@ -1,7 +1,10 @@
-package com.example.yuv.tool.functional;
+package com.example.yuv.tool.utils;
 
 
 import cn.hutool.core.util.StrUtil;
+import com.example.yuv.tool.functional.BranchHandle;
+import com.example.yuv.tool.functional.PresentOrElseHandler;
+import com.example.yuv.tool.functional.ThrowExceptionFunction;
 
 public class VUtils {
     /**
